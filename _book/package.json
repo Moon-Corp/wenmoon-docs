@@ -1,0 +1,26 @@
+{
+  "name": "wenmoon-docs",
+  "version": "1.0.0",
+  "description": "WenMoon Documentation",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve",
+    "init": "honkit init"
+  },
+  "keywords": [
+    "wenmoon",
+    "solana",
+    "meme-coin",
+    "launchpad",
+    "documentation"
+  ],
+  "author": "WenMoon Team",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^4.0.8"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
