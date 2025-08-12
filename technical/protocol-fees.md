@@ -14,15 +14,15 @@ All trades incur a 2% fee, collected in SOL to keep everything native to the Sol
 
 #### Remaining 80% Split
 
-**60% to WenMoon Protocol**
-- Supports ongoing development and platform maintenance
-- Funds long-term growth and feature development
-- Ensures platform stability and security
-
-**40% to Token Creators**
+**60% to Token Creators**
 - Rewards creators for launching and nurturing community-led projects
 - Incentivizes quality content and community engagement
 - Provides sustainable revenue streams for creators
+
+**40% to WenMoon Protocol**
+- Supports ongoing development and platform maintenance
+- Funds long-term growth and feature development
+- Ensures platform stability and security
 
 ## Liquidity and Security
 
@@ -84,10 +84,10 @@ Trading Fee (2%): 0.02 SOL
 
 Distribution:
 - Meteora (20%): 0.004 SOL
-- WenMoon Protocol (60%): 0.012 SOL  
-- Token Creator (40%): 0.008 SOL
+- Token Creator (60%): 0.012 SOL  
+- WenMoon Protocol (40%): 0.008 SOL
 
-Result: Creator earns 0.008 SOL from this single trade
+Result: Creator earns 0.012 SOL from this single trade
 ```
 
 ## Security and Transparency

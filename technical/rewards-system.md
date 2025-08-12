@@ -49,7 +49,7 @@ The best part? Claiming your share of the trading fees is straightforward and ha
 - **Transparent Tracking**: All fees are visible in your Portfolio tab
 
 ### Fee Distribution
-- **40% to Creators**: You receive 40% of all trading fees from your tokens
+- **60% to Creators**: You receive 60% of all trading fees from your tokens
 - **Real-time Updates**: See your earnings accumulate in real-time
 - **Instant Claims**: Claim your SOL rewards whenever you want
 
@@ -58,9 +58,9 @@ The best part? Claiming your share of the trading fees is straightforward and ha
 Token: Moon Mission Token (MOON)
 Trading Volume: 100 SOL
 Trading Fees (2%): 2 SOL
-Your Share (40%): 0.8 SOL
+Your Share (60%): 1.2 SOL
 
-Result: You earn 0.8 SOL from this token's trading activity
+Result: You earn 1.2 SOL from this token's trading activity
 ```
 
 ## Portfolio Management Features
