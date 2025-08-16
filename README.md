@@ -60,7 +60,7 @@ WenMoon is a revolutionary SocialFi platform built on Solana that enables creato
 
 Need help? Join our community:
 - [Website](https://wenmoon.gg)
-- [Chrome Extension](https://chrome.google.com/webstore)
+- [Chrome Extension](https://chromewebstore.google.com/detail/wenmoon-1-click-token-lau/gpfmldalkahmjnaodmndmkbkfndilkcc?hl=en-US&utm_source=ext_sidebar)
 - [Discord](https://discord.gg/wenmoon)
 - [Twitter](https://twitter.com/wenmoon)
 
